@@ -106,15 +106,6 @@ print(me.motto())
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 ---
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jubair247987&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/jubair247987)
-
-</div>
-
----
 
 ## 💼 Work Experience
 
