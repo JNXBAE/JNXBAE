@@ -1,179 +1,322 @@
-================================================================================
-                          MOHAMED JUBAIR K
-                          AI/ML Engineer
-================================================================================
+<div align="center">
 
-📞 +91 9677954147
-✉️ jubair247987@gmail.com
-🔗 GitHub: github.com/yourusername
-🔗 LinkedIn: linkedin.com/in/yourprofile
-🔗 Portfolio: yourportfolio.com
-📍 India
-🎯 AI/ML, Deep Learning, NLP, Computer Vision, MLOps
-🌐 English, Tamil
 
-================================================================================
-                          PROFESSIONAL SUMMARY
-================================================================================
 
-B.Tech AI & Data Science graduate with strong expertise in deep learning, NLP,
-computer vision, and model optimization. Proficient in PyTorch, TensorFlow, and
-Hugging Face Transformers. Experienced in building production-grade ML systems,
-RAG pipelines, and optimizing transformer architectures. Passionate about
-developing efficient AI models and deploying scalable ML solutions.
 
-================================================================================
-                          TECHNICAL SKILLS
-================================================================================
 
-DEEP LEARNING:
-PyTorch, TensorFlow, Hugging Face Transformers, CNN, RNN, LSTM, Transformers,
-Attention Mechanisms
 
-NLP & LLMs:
-LLMs, RAG, Prompt Engineering, BERT, GPT, Fine-tuning, Text Classification, NER
 
-COMPUTER VISION:
-OpenCV, YOLO, Detectron2, Image Classification, Object Detection, Segmentation
 
-MACHINE LEARNING:
-Scikit-learn, XGBoost, Classification, Clustering, Dimensionality Reduction,
-Model Evaluation
 
-MLOps & CLOUD:
-Docker, Kubernetes, AWS (EC2, S3), MLflow, FastAPI, Model Deployment, CI/CD
+</div>
 
-DATA SCIENCE:
-Pandas, NumPy, Matplotlib, Seaborn, EDA, Feature Engineering, SQL
+👨‍💻 About Me
 
-CORE CS:
-DSA, OOP, DBMS, Operating Systems, Computer Networks, Distributed Systems
+class MohamedJubair:
+    def __init__(self):
+        self.name         = "Mohamed Jubair K"
+        self.location     = "Cuddalore, Tamil Nadu, India"
+        self.degree       = "B.Tech in Artificial Intelligence and Data Science (2022–2026)"
+        self.college      = "CK College of Engineering and Technology"
+        self.cgpa         = 8.5
 
-================================================================================
-                          EXPERIENCE
-================================================================================
+        self.stack = [
+            "Python", "JavaScript", "React", "Node.js",
+            "TensorFlow", "PyTorch", "Flutter", "Firebase",
+            "MongoDB", "SQL", "Figma"
+        ]
 
-AI/ML RESEARCH INTERN
-2024 – Present
-PyTorch, Transformers, Deep Learning, Model Optimization
+        self.currently_learning = [
+            "Advanced RAG Pipelines",
+            "Agentic AI & LLM Orchestration",
+            "Multimodal Deep Learning",
+            "Cloud Deployments (Vercel, Firebase)"
+        ]
 
-• Designed and implemented an optimized Transformer architecture using
-  Restricted Self-Attention mechanism, reducing computational complexity by 40%
-  with 35% faster inference.
+        self.fun_fact = "I debug code better with football commentary in the background 🏈"
 
-• Built and fine-tuned transformer models for NLP tasks, achieving 92% accuracy
-  in multimodal classification.
+    def motto(self):
+        return "Build things that matter. Design things that last. Learn things that scale."
 
-• Developed efficient RAG pipeline with LangChain and vector databases for
-  document retrieval and question answering.
+me = MohamedJubair()
+print(me.motto())
 
-• Optimized model performance through quantization and pruning techniques,
-  reducing memory usage by 40%.
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
--------------------------------------------------------------------------------
+🎓 Final-year B.Tech AI & DS student at CK College of Engineering, Cuddalore
 
-AI/ML RESEARCH ASSISTANT
-2024 – Present
-Python, PyTorch, Scikit-learn, Data Mining
+🤖 Passionate about Machine Learning, AI Automation, and Full Stack Dev
 
-• Conducted research on efficient transformer architectures for long-sequence
-  processing, reducing complexity from O(N²) to O(N·w).
+🏆 Presented research at IIT Madras and won 2nd place at MRK College of Engineering
 
-• Built predictive models achieving 92% accuracy in multimodal classification
-  tasks.
+🌐 Building intelligent systems, recommendation engines, and IoT solutions
 
-• Optimized data pipelines for large-scale experiments, reducing inference time
-  by 35%.
+🎨 Also love UI/UX Design — beautiful interfaces matter as much as smart backends
 
-================================================================================
-                          PROJECTS
-================================================================================
+📍 Based in Tamil Nadu, India
 
-EFFICIENT TRANSFORMER VIA RESTRICTED SELF-ATTENTION
-GitHub: github.com/yourusername/project
+⚡ Fun fact: Football + Gaming + Video Editing = my ideal weekend
 
-• Proposed a novel Restricted Self-Attention mechanism reducing computational
-  complexity from O(N²) to O(N·w).
+🛠️ Tech Stack
 
-• Achieved 35% faster inference and 40% lower memory usage on long-text
-  sequences (10K+ tokens).
+Languages
 
-• Implemented dilated attention and global anchor tokens for long-range context
-  preservation.
 
-• Designed GPU-accelerated training pipelines using PyTorch and CUDA.
 
-Tech Stack: PyTorch, Hugging Face Transformers, CUDA, NumPy, Matplotlib
 
--------------------------------------------------------------------------------
 
-RAG PIPELINE FOR FINANCIAL DOCUMENT ANALYSIS
-GitHub: github.com/yourusername/project
 
-• Built a RAG pipeline using LangChain, Chroma DB, and OpenAI API for querying
-  financial ESG documents.
 
-• Engineered retrieval system with document chunking, embedding, and semantic
-  search with 90% accuracy.
+AI & Machine Learning
 
-• Deployed the system with FastAPI serving, achieving low-latency responses for
-  enterprise use cases.
 
-Tech Stack: LangChain, ChromaDB, OpenAI, FastAPI, Python, Docker
 
--------------------------------------------------------------------------------
 
-MULTIMODAL SPECIES RECOGNITION SYSTEM
-GitHub: github.com/yourusername/project
 
-• Built multimodal AI system combining image (CNN), audio (Librosa), and text
-  (Transformers) features.
 
-• Implemented feature fusion techniques achieving 92% classification accuracy
-  across 500+ species.
 
-• Deployed the solution using Docker and FastAPI for real-time inference.
 
-Tech Stack: PyTorch, OpenCV, Librosa, Hugging Face Transformers, Docker
+Web & Mobile Development
 
--------------------------------------------------------------------------------
 
-CUSTOMER CHURN PREDICTION WITH ML
-GitHub: github.com/yourusername/project
 
-• Built predictive models (Logistic Regression, Random Forest, XGBoost)
-  achieving 87% accuracy.
 
-• Performed extensive feature engineering and selection to improve model
-  performance.
 
-• Delivered actionable recommendations to reduce churn by 15% through targeted
-  strategies.
 
-Tech Stack: Python, Scikit-learn, XGBoost, Pandas, Matplotlib, Seaborn
 
-================================================================================
-                          ACHIEVEMENTS & CERTIFICATIONS
-================================================================================
 
-ACHIEVEMENTS:
-• 2nd Prize, National Paper Presentation — MRK College of Engineering
-• 3rd Prize, IIT Madras Technical Symposium
-• Research Publication on efficient transformer architectures (Under Review)
+Databases
 
-CERTIFICATIONS:
-• NPTEL Cloud Computing
-• IBM AI
-• Google Data Analytics
-• Microsoft Power BI
 
-================================================================================
-                          EDUCATION
-================================================================================
 
-C.K. COLLEGE OF ENGINEERING AND TECHNOLOGY
-B.Tech in Artificial Intelligence & Data Science
+
+
+Cloud & DevOps & Tools
+
+
+
+
+
+
+UI/UX Design
+
+
+
+
+
+
+💼 Work Experience
+
+<details>
+<summary><b>🎓 CK College of Engineering and Technology — AI & Data Science Student | 2022 – 2026 | Cuddalore, TN</b></summary>
+
+Tech: Python TensorFlow PyTorch React Node.js Flutter MongoDB Firebase Figma Power BI
+
+Developed a Human Following IoT Robot with obstacle detection and autonomous navigation, implementing real-time tracking algorithms
+
+Built a Multimodal Species Recognition System handling image, audio, video, and text inputs using deep learning classification models
+
+Designed and deployed a Coding Contest Platform featuring authentication, live leaderboards, and RESTful APIs serving concurrent users
+
+Created a Content-Based Recommendation Engine leveraging similarity algorithms and feature extraction, improving match accuracy significantly
+
+</details>
+
+🚀 Featured Projects
+
+<div align="center">
+
+Project
+
+Stack
+
+Highlights
+
+🤖 Human Following Robot
+
+Python IoT OpenCV Raspberry Pi
+
+Autonomous tracking robot with obstacle detection & real-time navigation; end-to-end IoT pipeline
+
+🌐 Coding Contest Platform
+
+React Node.js MongoDB Express Firebase
+
+Full-stack platform with auth, live leaderboards, REST APIs, and multi-user support
+
+🧬 Multimodal Species Recognition
+
+PyTorch TensorFlow Python Keras
+
+Classification system supporting image, audio, video & text inputs using multimodal deep learning
+
+🎙️ Text To Speech Voice App
+
+Python JavaScript React
+
+Accessibility-first app converting text to natural-sounding speech with multiple voice profiles
+
+🛍️ Content-Based Recommendation Engine
+
+Python Scikit-learn Pandas NumPy
+
+Similarity-driven recommendation system using feature extraction and cosine similarity scoring
+
+</div>
+
+🏅 Achievements
+
+<div align="center">
+
+🎖️
+
+Achievement
+
+Details
+
+🥈
+
+2nd Place — MRK College of Engineering
+
+Presented "AI-Driven Decentralized Prescription Validation and Secure Transaction System Using MetaMask" — Blockchain + AI healthcare solution
+
+🥉
+
+3rd Place — IIT Madras
+
+Presented "AI-Based Industrial Ventilation Monitoring and Airflow Optimization System" — Competed against teams from premier engineering institutes
+
+☁️
+
+Cloud Computing Certification
+
+SWAYAM NPTEL — National Programme on Technology Enhanced Learning
+
+🎨
+
+UI/UX Design Certification
+
+Great Learning — Completed UI/UX principles, design systems, and Figma workflows
+
+🤖
+
+Getting Started with AI
+
+IBM SkillBuild — Foundational AI and ML concepts
+
+🔁
+
+RPA Foundation
+
+UiPath — Robotic Process Automation fundamentals and bot development
+
+📊
+
+Data Analysis Using Pandas
+
+Vodafone Idea VI — Data manipulation, EDA, and reporting with Pandas
+
+</div>
+
+🧑‍🏭 Workshops Attended
+
+<div align="center">
+
+Workshop
+
+Organizer
+
+Venue
+
+PROLIM Siemens & Entuple Technologies
+
+Siemens / Entuple
+
+NIT Karaikal
+
+NoSQL Technologies
+
+ArjunVision
+
+Chennai
+
+AR/VR Immersive Workshop
+
+ArjunVision
+
+Chennai
+
+Web Development Bootcamp
+
+8Queen
+
+Chennai
+
+</div>
+
+🎓 Education
+
+<div align="center">
+
+Degree
+
+Institution
+
+Year
+
+Score
+
+🎓 B.Tech — Artificial Intelligence & Data Science
+
+CK College of Engineering and Technology, Cuddalore
+
 2022 – 2026
-CGPA: 8.5/10
 
-================================================================================
+CGPA: 8.5*
+
+📚 Higher Secondary Education (CBSE)
+
+SHEMFORD Futuristic School, Chidambaram
+
+2022
+
+65.33%
+
+🏫 Secondary School Education
+
+BEST Matriculation Higher Secondary School, Sirkazhi
+
+2020
+
+90.2%
+
+</div>
+
+🌱 Currently Learning
+
+🧱 Agentic AI        → LangChain · LangGraph · CrewAI · Autonomous Agents
+📡 RAG Pipelines     → Vector DBs · Pinecone · ChromaDB · Hybrid Search
+🧠 LLM Fine-tuning   → LoRA · QLoRA · PEFT · HuggingFace Transformers
+☁️ Cloud & Deploy    → Firebase Hosting · Vercel · Supabase · Docker basics
+🎯 Deep Learning     → Multimodal Models · Vision Transformers · Diffusion Models
+📱 Mobile Dev        → Flutter Advanced · Dart · React Native Expo
+
+🌐 Languages
+
+
+
+
+
+🎮 Hobbies & Interests
+
+⚽ Football  |  🎮 Gaming  |  🎬 Video Editing  |  🎨 UI Design  |  🤖 Artificial Intelligence
+
+<div align="center">
+
+💬 Let's connect and build something amazing together!
+
+
+
+
+
+</div>
